@@ -10,7 +10,7 @@ This collection ranges from RL, DL to Operational Research, Bias in ML, Probabil
 
 For those interested in expanding their knowledge of AI during this period, we thought it might be helpful to ask our researchers what they consider to be the most impactful and insightful resources available to use #AtHomeWithAI.
 
-First up is Feryal Behbahani, research scientist. She recommends the following:
+First up is **Feryal Behbahani**, research scientist. She recommends the following:
 
 - Stanford’s Emma Brunskill on RL https://bit.ly/3eAArB9
 - Lectures, slides and Colabs from khipu.ai: https://bit.ly/2KkDX4U
